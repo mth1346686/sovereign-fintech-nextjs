@@ -1,4 +1,4 @@
-# 🏛️ Sovereign Fintech & Wealth Intelligence Deck
+# 🏛️ Sovereign Wealth & Fintech Intelligence Platform
 ### Enterprise Next.js 14, Tailwind CSS & Framer Motion Edition
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-FFD700?style=for-the-badge&logo=github)](https://mth1346686.github.io/sovereign-fintech-nextjs/)
@@ -8,17 +8,18 @@
 
 ---
 
-## 🌐 Live URL
-Access the live interactive fintech command deck on GitHub Pages:
+## 🌐 Live Web Demonstration
+Access the live interactive fintech command deck directly on GitHub Pages:
 **[https://mth1346686.github.io/sovereign-fintech-nextjs/](https://mth1346686.github.io/sovereign-fintech-nextjs/)**
 
 ---
 
-## 🌟 Sovereign Asset Portfolio Overview
+## 💼 Sovereign Portfolio Overview
 • Total Assets Under Management: **185.40 Million EGP**
-• Egyptian Treasury Bills (أذون الخزانة المصرية): **75.0 M EGP** @ 27.25% Yield
+• Weighted Net Annual Yield: **+24.8%**
+• 1-Year Egyptian Treasury Bills (أذون الخزانة المصرية): **75.0 M EGP** @ 27.25% Yield
 • Physical 24K Gold Bullion (سبائك الذهب الفعلي): **42.5 M EGP** @ 38.60% Annual Alpha
-• EGX30 Egyptian Blue Chips (CIB, e-Finance, TMG, Elsewedy): **38.2 M EGP** @ 29.40% Yield
+• EGX30 Blue Chips (CIB, e-Finance, TMG, Elsewedy): **38.2 M EGP** @ 29.40% Yield
 • Commercial Real Estate & Sukuk: **29.7 M EGP** @ 14.80% Rental Yield
 
 ---
@@ -28,8 +29,8 @@ Access the live interactive fintech command deck on GitHub Pages:
 npm install
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) with your browser.
+Open **http://localhost:3000** in your browser.
 
 ---
 
-### Built with Sovereign Century Swarm Architecture & Co-Piloted by Agent 101 ('يويا')
+Developed by **Mahmoud Hafez** ([@mth1346686](https://github.com/mth1346686))
